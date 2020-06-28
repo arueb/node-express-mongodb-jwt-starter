@@ -1,0 +1,4 @@
+{
+  "localDb": "mongodb://localhost/grocerygram",
+  "jwtPrivateKey": "codeBlueGroceryGram"
+}
